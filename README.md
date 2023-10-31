@@ -9,6 +9,5 @@ As you can see it change Bg color and uperr to lowercase letters
 ![image](https://github.com/TilekKulanbekov/TextAreaMIdTerm/assets/73649961/6d418424-d5ae-4bde-8f59-ba832598cc6d)
 
 
-
-
+WebSite link: https://main--cute-hamster-d8ef23.netlify.app/
 YouTube link: https://youtu.be/-d-oTj3zktk
