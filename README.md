@@ -1,11 +1,14 @@
-# React + Vite
+This is my application for midterm, TextArea.
+I used here Vite Webpack, and used classes.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is the app
+![image](https://github.com/TilekKulanbekov/TextAreaMIdTerm/assets/73649961/c8108309-9eaf-427f-b9bf-ae2cd35fff66)
 
-Currently, two official plugins are available:
+As you can see it change Bg color and uperr to lowercase letters
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![image](https://github.com/TilekKulanbekov/TextAreaMIdTerm/assets/73649961/6d418424-d5ae-4bde-8f59-ba832598cc6d)
+
+
 
 
 YouTube link: https://youtu.be/-d-oTj3zktk
